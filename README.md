@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/Sabya05/DSA-Tracker/tree/master/0876-middle-of-the-linked-list) |
+| [2000-reverse-prefix-of-word](https://github.com/Sabya05/DSA-Tracker/tree/master/2000-reverse-prefix-of-word) |
 ## Math
 |  |
 | ------- |
@@ -51,12 +52,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sabya05/DSA-Tracker/tree/master/0020-valid-parentheses) |
 | [1544-make-the-string-great](https://github.com/Sabya05/DSA-Tracker/tree/master/1544-make-the-string-great) |
+| [2000-reverse-prefix-of-word](https://github.com/Sabya05/DSA-Tracker/tree/master/2000-reverse-prefix-of-word) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sabya05/DSA-Tracker/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/Sabya05/DSA-Tracker/tree/master/0496-next-greater-element-i) |
 | [1544-make-the-string-great](https://github.com/Sabya05/DSA-Tracker/tree/master/1544-make-the-string-great) |
+| [2000-reverse-prefix-of-word](https://github.com/Sabya05/DSA-Tracker/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
 | ------- |

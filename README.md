@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Sabya05/DSA-Tracker/tree/master/0138-copy-list-with-random-pointer) |
+| [0496-next-greater-element-i](https://github.com/Sabya05/DSA-Tracker/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/Sabya05/DSA-Tracker/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Sabya05/DSA-Tracker/tree/master/0260-single-number-iii) |
+| [0496-next-greater-element-i](https://github.com/Sabya05/DSA-Tracker/tree/master/0496-next-greater-element-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -52,4 +54,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sabya05/DSA-Tracker/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/Sabya05/DSA-Tracker/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Sabya05/DSA-Tracker/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

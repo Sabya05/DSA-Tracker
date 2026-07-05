@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Sabya05/DSA-Tracker/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Sabya05/DSA-Tracker/tree/master/0260-single-number-iii) |
 | [0496-next-greater-element-i](https://github.com/Sabya05/DSA-Tracker/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Sabya05/DSA-Tracker/tree/master/0682-baseball-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sabya05/DSA-Tracker/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Sabya05/DSA-Tracker/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Sabya05/DSA-Tracker/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Sabya05/DSA-Tracker/tree/master/0682-baseball-game) |
 | [1544-make-the-string-great](https://github.com/Sabya05/DSA-Tracker/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/Sabya05/DSA-Tracker/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Sabya05/DSA-Tracker/tree/master/0155-min-stack) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Sabya05/DSA-Tracker/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->

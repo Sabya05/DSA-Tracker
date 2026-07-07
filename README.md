@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Sabya05/DSA-Tracker/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Sabya05/DSA-Tracker/tree/master/0260-single-number-iii) |
 | [0496-next-greater-element-i](https://github.com/Sabya05/DSA-Tracker/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Sabya05/DSA-Tracker/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Sabya05/DSA-Tracker/tree/master/0682-baseball-game) |
 ## Bit Manipulation
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Sabya05/DSA-Tracker/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Sabya05/DSA-Tracker/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Sabya05/DSA-Tracker/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Sabya05/DSA-Tracker/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Sabya05/DSA-Tracker/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Sabya05/DSA-Tracker/tree/master/0844-backspace-string-compare) |
 | [1544-make-the-string-great](https://github.com/Sabya05/DSA-Tracker/tree/master/1544-make-the-string-great) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sabya05/DSA-Tracker/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Sabya05/DSA-Tracker/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Sabya05/DSA-Tracker/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |

@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Sabya05/DSA-Tracker/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Sabya05/DSA-Tracker/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sabya05/DSA-Tracker/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Sabya05/DSA-Tracker/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Sabya05/DSA-Tracker/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sabya05/DSA-Tracker/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Sabya05/DSA-Tracker/tree/master/0682-baseball-game) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Sabya05/DSA-Tracker/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sabya05/DSA-Tracker/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Sabya05/DSA-Tracker/tree/master/0232-implement-queue-using-stacks) |
 ## Simulation
 |  |
 | ------- |
@@ -99,4 +101,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Sabya05/DSA-Tracker/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Sabya05/DSA-Tracker/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->

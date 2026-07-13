@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Sabya05/DSA-Tracker/tree/master/0138-copy-list-with-random-pointer) |
+| [0219-contains-duplicate-ii](https://github.com/Sabya05/DSA-Tracker/tree/master/0219-contains-duplicate-ii) |
 | [0299-bulls-and-cows](https://github.com/Sabya05/DSA-Tracker/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sabya05/DSA-Tracker/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Sabya05/DSA-Tracker/tree/master/0496-next-greater-element-i) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Sabya05/DSA-Tracker/tree/master/0084-largest-rectangle-in-histogram) |
 | [0134-gas-station](https://github.com/Sabya05/DSA-Tracker/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/Sabya05/DSA-Tracker/tree/master/0137-single-number-ii) |
+| [0219-contains-duplicate-ii](https://github.com/Sabya05/DSA-Tracker/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/Sabya05/DSA-Tracker/tree/master/0260-single-number-iii) |
 | [0496-next-greater-element-i](https://github.com/Sabya05/DSA-Tracker/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sabya05/DSA-Tracker/tree/master/0503-next-greater-element-ii) |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Sabya05/DSA-Tracker/tree/master/0523-continuous-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Sabya05/DSA-Tracker/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->

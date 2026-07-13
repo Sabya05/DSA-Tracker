@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Sabya05/DSA-Tracker/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/Sabya05/DSA-Tracker/tree/master/0137-single-number-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Sabya05/DSA-Tracker/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/Sabya05/DSA-Tracker/tree/master/0228-summary-ranges) |
 | [0260-single-number-iii](https://github.com/Sabya05/DSA-Tracker/tree/master/0260-single-number-iii) |
 | [0496-next-greater-element-i](https://github.com/Sabya05/DSA-Tracker/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sabya05/DSA-Tracker/tree/master/0503-next-greater-element-ii) |

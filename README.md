@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Sabya05/DSA-Tracker/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Sabya05/DSA-Tracker/tree/master/0228-summary-ranges) |
 | [0260-single-number-iii](https://github.com/Sabya05/DSA-Tracker/tree/master/0260-single-number-iii) |
+| [0414-third-maximum-number](https://github.com/Sabya05/DSA-Tracker/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/Sabya05/DSA-Tracker/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sabya05/DSA-Tracker/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Sabya05/DSA-Tracker/tree/master/0523-continuous-subarray-sum) |
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Sabya05/DSA-Tracker/tree/master/0219-contains-duplicate-ii) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/Sabya05/DSA-Tracker/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->

@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Sabya05/DSA-Tracker/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sabya05/DSA-Tracker/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Sabya05/DSA-Tracker/tree/master/0523-continuous-subarray-sum) |
+| [0605-can-place-flowers](https://github.com/Sabya05/DSA-Tracker/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/Sabya05/DSA-Tracker/tree/master/0682-baseball-game) |
 ## Bit Manipulation
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Sabya05/DSA-Tracker/tree/master/0134-gas-station) |
+| [0605-can-place-flowers](https://github.com/Sabya05/DSA-Tracker/tree/master/0605-can-place-flowers) |
 ## Prefix Sum
 |  |
 | ------- |

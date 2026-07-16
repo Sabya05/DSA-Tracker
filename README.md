@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Sabya05/DSA-Tracker/tree/master/0138-copy-list-with-random-pointer) |
 | [0219-contains-duplicate-ii](https://github.com/Sabya05/DSA-Tracker/tree/master/0219-contains-duplicate-ii) |
 | [0299-bulls-and-cows](https://github.com/Sabya05/DSA-Tracker/tree/master/0299-bulls-and-cows) |
+| [0383-ransom-note](https://github.com/Sabya05/DSA-Tracker/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sabya05/DSA-Tracker/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Sabya05/DSA-Tracker/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Sabya05/DSA-Tracker/tree/master/0523-continuous-subarray-sum) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sabya05/DSA-Tracker/tree/master/0020-valid-parentheses) |
 | [0299-bulls-and-cows](https://github.com/Sabya05/DSA-Tracker/tree/master/0299-bulls-and-cows) |
+| [0383-ransom-note](https://github.com/Sabya05/DSA-Tracker/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sabya05/DSA-Tracker/tree/master/0387-first-unique-character-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/Sabya05/DSA-Tracker/tree/master/0844-backspace-string-compare) |
 | [1544-make-the-string-great](https://github.com/Sabya05/DSA-Tracker/tree/master/1544-make-the-string-great) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/Sabya05/DSA-Tracker/tree/master/0299-bulls-and-cows) |
+| [0383-ransom-note](https://github.com/Sabya05/DSA-Tracker/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sabya05/DSA-Tracker/tree/master/0387-first-unique-character-in-a-string) |
 ## Greedy
 |  |

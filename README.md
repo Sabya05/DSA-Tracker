@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sabya05/DSA-Tracker/tree/master/0002-add-two-numbers) |
+| [0292-nim-game](https://github.com/Sabya05/DSA-Tracker/tree/master/0292-nim-game) |
 | [0415-add-strings](https://github.com/Sabya05/DSA-Tracker/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/Sabya05/DSA-Tracker/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sabya05/DSA-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
@@ -155,4 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Sabya05/DSA-Tracker/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sabya05/DSA-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Sabya05/DSA-Tracker/tree/master/0645-set-mismatch) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Sabya05/DSA-Tracker/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Sabya05/DSA-Tracker/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->

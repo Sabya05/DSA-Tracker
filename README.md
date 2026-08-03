@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Sabya05/DSA-Tracker/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sabya05/DSA-Tracker/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Sabya05/DSA-Tracker/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Sabya05/DSA-Tracker/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Sabya05/DSA-Tracker/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Sabya05/DSA-Tracker/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Sabya05/DSA-Tracker/tree/master/0299-bulls-and-cows) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sabya05/DSA-Tracker/tree/master/0020-valid-parentheses) |
+| [0205-isomorphic-strings](https://github.com/Sabya05/DSA-Tracker/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Sabya05/DSA-Tracker/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Sabya05/DSA-Tracker/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/Sabya05/DSA-Tracker/tree/master/0383-ransom-note) |

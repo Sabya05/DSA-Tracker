@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sabya05/DSA-Tracker/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Sabya05/DSA-Tracker/tree/master/0024-swap-nodes-in-pairs) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sabya05/DSA-Tracker/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sabya05/DSA-Tracker/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sabya05/DSA-Tracker/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sabya05/DSA-Tracker/tree/master/0160-intersection-of-two-linked-lists) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sabya05/DSA-Tracker/tree/master/0042-trapping-rain-water) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sabya05/DSA-Tracker/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sabya05/DSA-Tracker/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Sabya05/DSA-Tracker/tree/master/0202-happy-number) |
 | [0844-backspace-string-compare](https://github.com/Sabya05/DSA-Tracker/tree/master/0844-backspace-string-compare) |

@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Sabya05/DSA-Tracker/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sabya05/DSA-Tracker/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Sabya05/DSA-Tracker/tree/master/0203-remove-linked-list-elements) |
+| [0328-odd-even-linked-list](https://github.com/Sabya05/DSA-Tracker/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Sabya05/DSA-Tracker/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0705-design-hashset](https://github.com/Sabya05/DSA-Tracker/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/Sabya05/DSA-Tracker/tree/master/0876-middle-of-the-linked-list) |

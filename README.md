@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Sabya05/DSA-Tracker/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0705-design-hashset](https://github.com/Sabya05/DSA-Tracker/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/Sabya05/DSA-Tracker/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sabya05/DSA-Tracker/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sabya05/DSA-Tracker/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Array
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Sabya05/DSA-Tracker/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sabya05/DSA-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Sabya05/DSA-Tracker/tree/master/0728-self-dividing-numbers) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sabya05/DSA-Tracker/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## String
 |  |
 | ------- |

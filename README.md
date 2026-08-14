@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Sabya05/DSA-Tracker/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Sabya05/DSA-Tracker/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sabya05/DSA-Tracker/tree/master/0138-copy-list-with-random-pointer) |
+| [0143-reorder-list](https://github.com/Sabya05/DSA-Tracker/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sabya05/DSA-Tracker/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Sabya05/DSA-Tracker/tree/master/0203-remove-linked-list-elements) |
 | [0328-odd-even-linked-list](https://github.com/Sabya05/DSA-Tracker/tree/master/0328-odd-even-linked-list) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Sabya05/DSA-Tracker/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Sabya05/DSA-Tracker/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sabya05/DSA-Tracker/tree/master/0025-reverse-nodes-in-k-group) |
+| [0143-reorder-list](https://github.com/Sabya05/DSA-Tracker/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Sabya05/DSA-Tracker/tree/master/0203-remove-linked-list-elements) |
 ## Two Pointers
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Sabya05/DSA-Tracker/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sabya05/DSA-Tracker/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Sabya05/DSA-Tracker/tree/master/0086-partition-list) |
+| [0143-reorder-list](https://github.com/Sabya05/DSA-Tracker/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sabya05/DSA-Tracker/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Sabya05/DSA-Tracker/tree/master/0202-happy-number) |
 | [0844-backspace-string-compare](https://github.com/Sabya05/DSA-Tracker/tree/master/0844-backspace-string-compare) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sabya05/DSA-Tracker/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sabya05/DSA-Tracker/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sabya05/DSA-Tracker/tree/master/0084-largest-rectangle-in-histogram) |
+| [0143-reorder-list](https://github.com/Sabya05/DSA-Tracker/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Sabya05/DSA-Tracker/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sabya05/DSA-Tracker/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sabya05/DSA-Tracker/tree/master/0232-implement-queue-using-stacks) |

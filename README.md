@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sabya05/DSA-Tracker/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/Sabya05/DSA-Tracker/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Sabya05/DSA-Tracker/tree/master/0260-single-number-iii) |
 | [0645-set-mismatch](https://github.com/Sabya05/DSA-Tracker/tree/master/0645-set-mismatch) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sabya05/DSA-Tracker/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/Sabya05/DSA-Tracker/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Sabya05/DSA-Tracker/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/Sabya05/DSA-Tracker/tree/master/0292-nim-game) |
 | [0415-add-strings](https://github.com/Sabya05/DSA-Tracker/tree/master/0415-add-strings) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sabya05/DSA-Tracker/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/Sabya05/DSA-Tracker/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/Sabya05/DSA-Tracker/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Sabya05/DSA-Tracker/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Sabya05/DSA-Tracker/tree/master/0299-bulls-and-cows) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sabya05/DSA-Tracker/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Sabya05/DSA-Tracker/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Sabya05/DSA-Tracker/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Sabya05/DSA-Tracker/tree/master/0844-backspace-string-compare) |

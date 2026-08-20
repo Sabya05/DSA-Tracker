@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Sabya05/DSA-Tracker/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sabya05/DSA-Tracker/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Sabya05/DSA-Tracker/tree/master/0202-happy-number) |
+| [0392-is-subsequence](https://github.com/Sabya05/DSA-Tracker/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/Sabya05/DSA-Tracker/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Sabya05/DSA-Tracker/tree/master/0876-middle-of-the-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/Sabya05/DSA-Tracker/tree/master/2000-reverse-prefix-of-word) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Sabya05/DSA-Tracker/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/Sabya05/DSA-Tracker/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sabya05/DSA-Tracker/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Sabya05/DSA-Tracker/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Sabya05/DSA-Tracker/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Sabya05/DSA-Tracker/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/Sabya05/DSA-Tracker/tree/master/0504-base-7) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sabya05/DSA-Tracker/tree/master/0042-trapping-rain-water) |
+| [0392-is-subsequence](https://github.com/Sabya05/DSA-Tracker/tree/master/0392-is-subsequence) |
 ## Queue
 |  |
 | ------- |

@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Sabya05/DSA-Tracker/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sabya05/DSA-Tracker/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1669-merge-in-between-linked-lists](https://github.com/Sabya05/DSA-Tracker/tree/master/1669-merge-in-between-linked-lists) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Sabya05/DSA-Tracker/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sabya05/DSA-Tracker/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Array
 |  |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Sabya05/DSA-Tracker/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Sabya05/DSA-Tracker/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Sabya05/DSA-Tracker/tree/master/0844-backspace-string-compare) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Sabya05/DSA-Tracker/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sabya05/DSA-Tracker/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Dynamic Programming
 |  |

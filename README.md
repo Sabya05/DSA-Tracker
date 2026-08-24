@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Sabya05/DSA-Tracker/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sabya05/DSA-Tracker/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sabya05/DSA-Tracker/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Sabya05/DSA-Tracker/tree/master/0202-happy-number) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sabya05/DSA-Tracker/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Sabya05/DSA-Tracker/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sabya05/DSA-Tracker/tree/master/0084-largest-rectangle-in-histogram) |
 | [0134-gas-station](https://github.com/Sabya05/DSA-Tracker/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/Sabya05/DSA-Tracker/tree/master/0137-single-number-ii) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sabya05/DSA-Tracker/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Sabya05/DSA-Tracker/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Sabya05/DSA-Tracker/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/Sabya05/DSA-Tracker/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Sabya05/DSA-Tracker/tree/master/0290-word-pattern) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Sabya05/DSA-Tracker/tree/master/0049-group-anagrams) |
 | [0414-third-maximum-number](https://github.com/Sabya05/DSA-Tracker/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sabya05/DSA-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Sabya05/DSA-Tracker/tree/master/0645-set-mismatch) |

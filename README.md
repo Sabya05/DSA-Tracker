@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Sabya05/DSA-Tracker/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/Sabya05/DSA-Tracker/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/Sabya05/DSA-Tracker/tree/master/0190-reverse-bits) |
 | [0260-single-number-iii](https://github.com/Sabya05/DSA-Tracker/tree/master/0260-single-number-iii) |
 | [0645-set-mismatch](https://github.com/Sabya05/DSA-Tracker/tree/master/0645-set-mismatch) |
 ## Depth-First Search
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Sabya05/DSA-Tracker/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/Sabya05/DSA-Tracker/tree/master/0190-reverse-bits) |
 ## Merge Sort
 |  |
 | ------- |

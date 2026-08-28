@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Sabya05/DSA-Tracker/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Sabya05/DSA-Tracker/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/Sabya05/DSA-Tracker/tree/master/0260-single-number-iii) |
+| [0338-counting-bits](https://github.com/Sabya05/DSA-Tracker/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/Sabya05/DSA-Tracker/tree/master/0645-set-mismatch) |
 ## Depth-First Search
 |  |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sabya05/DSA-Tracker/tree/master/0042-trapping-rain-water) |
+| [0338-counting-bits](https://github.com/Sabya05/DSA-Tracker/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Sabya05/DSA-Tracker/tree/master/0392-is-subsequence) |
 ## Queue
 |  |

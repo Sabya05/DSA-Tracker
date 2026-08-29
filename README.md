@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Sabya05/DSA-Tracker/tree/master/0049-group-anagrams) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sabya05/DSA-Tracker/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sabya05/DSA-Tracker/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sabya05/DSA-Tracker/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Sabya05/DSA-Tracker/tree/master/0202-happy-number) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Sabya05/DSA-Tracker/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Sabya05/DSA-Tracker/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sabya05/DSA-Tracker/tree/master/0084-largest-rectangle-in-histogram) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sabya05/DSA-Tracker/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0134-gas-station](https://github.com/Sabya05/DSA-Tracker/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/Sabya05/DSA-Tracker/tree/master/0137-single-number-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Sabya05/DSA-Tracker/tree/master/0219-contains-duplicate-ii) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Sabya05/DSA-Tracker/tree/master/0100-same-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sabya05/DSA-Tracker/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sabya05/DSA-Tracker/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sabya05/DSA-Tracker/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sabya05/DSA-Tracker/tree/master/0572-subtree-of-another-tree) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Sabya05/DSA-Tracker/tree/master/0100-same-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sabya05/DSA-Tracker/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sabya05/DSA-Tracker/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sabya05/DSA-Tracker/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sabya05/DSA-Tracker/tree/master/0572-subtree-of-another-tree) |
@@ -297,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sabya05/DSA-Tracker/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/Sabya05/DSA-Tracker/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/Sabya05/DSA-Tracker/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Sabya05/DSA-Tracker/tree/master/0191-number-of-1-bits) |

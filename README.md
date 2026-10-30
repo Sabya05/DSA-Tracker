@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Sabya05/DSA-Tracker/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Sabya05/DSA-Tracker/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Sabya05/DSA-Tracker/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Sabya05/DSA-Tracker/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Sabya05/DSA-Tracker/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Sabya05/DSA-Tracker/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/Sabya05/DSA-Tracker/tree/master/0383-ransom-note) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Sabya05/DSA-Tracker/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Sabya05/DSA-Tracker/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Sabya05/DSA-Tracker/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Sabya05/DSA-Tracker/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Sabya05/DSA-Tracker/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Sabya05/DSA-Tracker/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Sabya05/DSA-Tracker/tree/master/0299-bulls-and-cows) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Sabya05/DSA-Tracker/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/Sabya05/DSA-Tracker/tree/master/0148-sort-list) |
+| [0242-valid-anagram](https://github.com/Sabya05/DSA-Tracker/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Sabya05/DSA-Tracker/tree/master/0414-third-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/Sabya05/DSA-Tracker/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sabya05/DSA-Tracker/tree/master/0628-maximum-product-of-three-numbers) |

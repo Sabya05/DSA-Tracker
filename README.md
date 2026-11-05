@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Sabya05/DSA-Tracker/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/Sabya05/DSA-Tracker/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/Sabya05/DSA-Tracker/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/Sabya05/DSA-Tracker/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Sabya05/DSA-Tracker/tree/master/0645-set-mismatch) |
 ## Depth-First Search
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Sabya05/DSA-Tracker/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/Sabya05/DSA-Tracker/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Sabya05/DSA-Tracker/tree/master/0203-remove-linked-list-elements) |
+| [0342-power-of-four](https://github.com/Sabya05/DSA-Tracker/tree/master/0342-power-of-four) |
 ## Two Pointers
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Sabya05/DSA-Tracker/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Sabya05/DSA-Tracker/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/Sabya05/DSA-Tracker/tree/master/0292-nim-game) |
+| [0342-power-of-four](https://github.com/Sabya05/DSA-Tracker/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/Sabya05/DSA-Tracker/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/Sabya05/DSA-Tracker/tree/master/0445-add-two-numbers-ii) |
 | [0492-construct-the-rectangle](https://github.com/Sabya05/DSA-Tracker/tree/master/0492-construct-the-rectangle) |

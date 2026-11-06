@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Sabya05/DSA-Tracker/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Sabya05/DSA-Tracker/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/Sabya05/DSA-Tracker/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/Sabya05/DSA-Tracker/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/Sabya05/DSA-Tracker/tree/master/0523-continuous-subarray-sum) |
 | [0575-distribute-candies](https://github.com/Sabya05/DSA-Tracker/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Sabya05/DSA-Tracker/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Sabya05/DSA-Tracker/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Sabya05/DSA-Tracker/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Sabya05/DSA-Tracker/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/Sabya05/DSA-Tracker/tree/master/0506-relative-ranks) |
 | [0611-valid-triangle-number](https://github.com/Sabya05/DSA-Tracker/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sabya05/DSA-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Sabya05/DSA-Tracker/tree/master/0645-set-mismatch) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/Sabya05/DSA-Tracker/tree/master/0506-relative-ranks) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sabya05/DSA-Tracker/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Ordered Set
 |  |

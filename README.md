@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Sabya05/DSA-Tracker/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Sabya05/DSA-Tracker/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/Sabya05/DSA-Tracker/tree/master/0523-continuous-subarray-sum) |
+| [0561-array-partition](https://github.com/Sabya05/DSA-Tracker/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Sabya05/DSA-Tracker/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Sabya05/DSA-Tracker/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/Sabya05/DSA-Tracker/tree/master/0605-can-place-flowers) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/Sabya05/DSA-Tracker/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/Sabya05/DSA-Tracker/tree/master/0409-longest-palindrome) |
+| [0561-array-partition](https://github.com/Sabya05/DSA-Tracker/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Sabya05/DSA-Tracker/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Sabya05/DSA-Tracker/tree/master/0611-valid-triangle-number) |
 ## Prefix Sum
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Sabya05/DSA-Tracker/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Sabya05/DSA-Tracker/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/Sabya05/DSA-Tracker/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/Sabya05/DSA-Tracker/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Sabya05/DSA-Tracker/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sabya05/DSA-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Sabya05/DSA-Tracker/tree/master/0645-set-mismatch) |
@@ -387,4 +390,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Sabya05/DSA-Tracker/tree/master/0450-delete-node-in-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Sabya05/DSA-Tracker/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sabya05/DSA-Tracker/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Sabya05/DSA-Tracker/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->

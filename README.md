@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Sabya05/DSA-Tracker/tree/master/0771-jewels-and-stones) |
 | [0888-fair-candy-swap](https://github.com/Sabya05/DSA-Tracker/tree/master/0888-fair-candy-swap) |
 | [1002-find-common-characters](https://github.com/Sabya05/DSA-Tracker/tree/master/1002-find-common-characters) |
+| [2465-number-of-distinct-averages](https://github.com/Sabya05/DSA-Tracker/tree/master/2465-number-of-distinct-averages) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sabya05/DSA-Tracker/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sabya05/DSA-Tracker/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Linked List
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/Sabya05/DSA-Tracker/tree/master/0888-fair-candy-swap) |
 | [1002-find-common-characters](https://github.com/Sabya05/DSA-Tracker/tree/master/1002-find-common-characters) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sabya05/DSA-Tracker/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2465-number-of-distinct-averages](https://github.com/Sabya05/DSA-Tracker/tree/master/2465-number-of-distinct-averages) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sabya05/DSA-Tracker/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sabya05/DSA-Tracker/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Bit Manipulation
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Sabya05/DSA-Tracker/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Sabya05/DSA-Tracker/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/Sabya05/DSA-Tracker/tree/master/2000-reverse-prefix-of-word) |
+| [2465-number-of-distinct-averages](https://github.com/Sabya05/DSA-Tracker/tree/master/2465-number-of-distinct-averages) |
 ## Math
 |  |
 | ------- |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Sabya05/DSA-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Sabya05/DSA-Tracker/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/Sabya05/DSA-Tracker/tree/master/0888-fair-candy-swap) |
+| [2465-number-of-distinct-averages](https://github.com/Sabya05/DSA-Tracker/tree/master/2465-number-of-distinct-averages) |
 ## Brainteaser
 |  |
 | ------- |

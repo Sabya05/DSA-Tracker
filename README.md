@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Sabya05/DSA-Tracker/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Sabya05/DSA-Tracker/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Sabya05/DSA-Tracker/tree/master/0645-set-mismatch) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sabya05/DSA-Tracker/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Sabya05/DSA-Tracker/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sabya05/DSA-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Sabya05/DSA-Tracker/tree/master/0728-self-dividing-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sabya05/DSA-Tracker/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sabya05/DSA-Tracker/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## String
 |  |
@@ -401,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Sabya05/DSA-Tracker/tree/master/0561-array-partition) |
+## Primality Test
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sabya05/DSA-Tracker/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->

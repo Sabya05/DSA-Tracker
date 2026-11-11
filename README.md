@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Sabya05/DSA-Tracker/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/Sabya05/DSA-Tracker/tree/master/0705-design-hashset) |
 | [0888-fair-candy-swap](https://github.com/Sabya05/DSA-Tracker/tree/master/0888-fair-candy-swap) |
+| [0908-smallest-range-i](https://github.com/Sabya05/DSA-Tracker/tree/master/0908-smallest-range-i) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sabya05/DSA-Tracker/tree/master/0922-sort-array-by-parity-ii) |
 | [1002-find-common-characters](https://github.com/Sabya05/DSA-Tracker/tree/master/1002-find-common-characters) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sabya05/DSA-Tracker/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Sabya05/DSA-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Sabya05/DSA-Tracker/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sabya05/DSA-Tracker/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0908-smallest-range-i](https://github.com/Sabya05/DSA-Tracker/tree/master/0908-smallest-range-i) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sabya05/DSA-Tracker/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## String
 |  |

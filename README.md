@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Sabya05/DSA-Tracker/tree/master/0705-design-hashset) |
 | [0888-fair-candy-swap](https://github.com/Sabya05/DSA-Tracker/tree/master/0888-fair-candy-swap) |
 | [0908-smallest-range-i](https://github.com/Sabya05/DSA-Tracker/tree/master/0908-smallest-range-i) |
+| [0910-smallest-range-ii](https://github.com/Sabya05/DSA-Tracker/tree/master/0910-smallest-range-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sabya05/DSA-Tracker/tree/master/0922-sort-array-by-parity-ii) |
 | [1002-find-common-characters](https://github.com/Sabya05/DSA-Tracker/tree/master/1002-find-common-characters) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sabya05/DSA-Tracker/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Sabya05/DSA-Tracker/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sabya05/DSA-Tracker/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0908-smallest-range-i](https://github.com/Sabya05/DSA-Tracker/tree/master/0908-smallest-range-i) |
+| [0910-smallest-range-ii](https://github.com/Sabya05/DSA-Tracker/tree/master/0910-smallest-range-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sabya05/DSA-Tracker/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## String
 |  |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Sabya05/DSA-Tracker/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Sabya05/DSA-Tracker/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Sabya05/DSA-Tracker/tree/master/0611-valid-triangle-number) |
+| [0910-smallest-range-ii](https://github.com/Sabya05/DSA-Tracker/tree/master/0910-smallest-range-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Sabya05/DSA-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Sabya05/DSA-Tracker/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/Sabya05/DSA-Tracker/tree/master/0888-fair-candy-swap) |
+| [0910-smallest-range-ii](https://github.com/Sabya05/DSA-Tracker/tree/master/0910-smallest-range-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sabya05/DSA-Tracker/tree/master/0922-sort-array-by-parity-ii) |
 | [2465-number-of-distinct-averages](https://github.com/Sabya05/DSA-Tracker/tree/master/2465-number-of-distinct-averages) |
 ## Brainteaser

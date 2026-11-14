@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Sabya05/DSA-Tracker/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sabya05/DSA-Tracker/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Sabya05/DSA-Tracker/tree/master/0409-longest-palindrome) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Sabya05/DSA-Tracker/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Sabya05/DSA-Tracker/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Sabya05/DSA-Tracker/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/Sabya05/DSA-Tracker/tree/master/0523-continuous-subarray-sum) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Sabya05/DSA-Tracker/tree/master/0228-summary-ranges) |
 | [0260-single-number-iii](https://github.com/Sabya05/DSA-Tracker/tree/master/0260-single-number-iii) |
 | [0414-third-maximum-number](https://github.com/Sabya05/DSA-Tracker/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Sabya05/DSA-Tracker/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Sabya05/DSA-Tracker/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Sabya05/DSA-Tracker/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/Sabya05/DSA-Tracker/tree/master/0503-next-greater-element-ii) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Sabya05/DSA-Tracker/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Sabya05/DSA-Tracker/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Sabya05/DSA-Tracker/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Sabya05/DSA-Tracker/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/Sabya05/DSA-Tracker/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Sabya05/DSA-Tracker/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Sabya05/DSA-Tracker/tree/master/0611-valid-triangle-number) |

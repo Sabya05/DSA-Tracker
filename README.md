@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Sabya05/DSA-Tracker/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Sabya05/DSA-Tracker/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sabya05/DSA-Tracker/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Sabya05/DSA-Tracker/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Sabya05/DSA-Tracker/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Sabya05/DSA-Tracker/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/Sabya05/DSA-Tracker/tree/master/0523-continuous-subarray-sum) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Sabya05/DSA-Tracker/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Sabya05/DSA-Tracker/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Sabya05/DSA-Tracker/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/Sabya05/DSA-Tracker/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Sabya05/DSA-Tracker/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/Sabya05/DSA-Tracker/tree/master/0504-base-7) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Sabya05/DSA-Tracker/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Sabya05/DSA-Tracker/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/Sabya05/DSA-Tracker/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sabya05/DSA-Tracker/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Sabya05/DSA-Tracker/tree/master/0451-sort-characters-by-frequency) |
 ## Greedy
 |  |
 | ------- |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Sabya05/DSA-Tracker/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Sabya05/DSA-Tracker/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sabya05/DSA-Tracker/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Sabya05/DSA-Tracker/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Sabya05/DSA-Tracker/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Sabya05/DSA-Tracker/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Sabya05/DSA-Tracker/tree/master/0611-valid-triangle-number) |
@@ -323,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Sabya05/DSA-Tracker/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Sabya05/DSA-Tracker/tree/master/0506-relative-ranks) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sabya05/DSA-Tracker/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Ordered Set
@@ -421,4 +426,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sabya05/DSA-Tracker/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Sabya05/DSA-Tracker/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->

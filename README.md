@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Sabya05/DSA-Tracker/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/Sabya05/DSA-Tracker/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/Sabya05/DSA-Tracker/tree/master/0791-custom-sort-string) |
+| [0819-most-common-word](https://github.com/Sabya05/DSA-Tracker/tree/master/0819-most-common-word) |
 | [0888-fair-candy-swap](https://github.com/Sabya05/DSA-Tracker/tree/master/0888-fair-candy-swap) |
 | [1002-find-common-characters](https://github.com/Sabya05/DSA-Tracker/tree/master/1002-find-common-characters) |
 | [2465-number-of-distinct-averages](https://github.com/Sabya05/DSA-Tracker/tree/master/2465-number-of-distinct-averages) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Sabya05/DSA-Tracker/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Sabya05/DSA-Tracker/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/Sabya05/DSA-Tracker/tree/master/0705-design-hashset) |
+| [0819-most-common-word](https://github.com/Sabya05/DSA-Tracker/tree/master/0819-most-common-word) |
 | [0888-fair-candy-swap](https://github.com/Sabya05/DSA-Tracker/tree/master/0888-fair-candy-swap) |
 | [0908-smallest-range-i](https://github.com/Sabya05/DSA-Tracker/tree/master/0908-smallest-range-i) |
 | [0910-smallest-range-ii](https://github.com/Sabya05/DSA-Tracker/tree/master/0910-smallest-range-ii) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Sabya05/DSA-Tracker/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/Sabya05/DSA-Tracker/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/Sabya05/DSA-Tracker/tree/master/0791-custom-sort-string) |
+| [0819-most-common-word](https://github.com/Sabya05/DSA-Tracker/tree/master/0819-most-common-word) |
 | [0844-backspace-string-compare](https://github.com/Sabya05/DSA-Tracker/tree/master/0844-backspace-string-compare) |
 | [1002-find-common-characters](https://github.com/Sabya05/DSA-Tracker/tree/master/1002-find-common-characters) |
 | [1544-make-the-string-great](https://github.com/Sabya05/DSA-Tracker/tree/master/1544-make-the-string-great) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Sabya05/DSA-Tracker/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sabya05/DSA-Tracker/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Sabya05/DSA-Tracker/tree/master/0451-sort-characters-by-frequency) |
+| [0819-most-common-word](https://github.com/Sabya05/DSA-Tracker/tree/master/0819-most-common-word) |
 ## Greedy
 |  |
 | ------- |

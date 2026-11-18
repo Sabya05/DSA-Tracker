@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/Sabya05/DSA-Tracker/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/Sabya05/DSA-Tracker/tree/master/0504-base-7) |
 | [0523-continuous-subarray-sum](https://github.com/Sabya05/DSA-Tracker/tree/master/0523-continuous-subarray-sum) |
+| [0537-complex-number-multiplication](https://github.com/Sabya05/DSA-Tracker/tree/master/0537-complex-number-multiplication) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sabya05/DSA-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Sabya05/DSA-Tracker/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sabya05/DSA-Tracker/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Sabya05/DSA-Tracker/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/Sabya05/DSA-Tracker/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/Sabya05/DSA-Tracker/tree/master/0520-detect-capital) |
+| [0537-complex-number-multiplication](https://github.com/Sabya05/DSA-Tracker/tree/master/0537-complex-number-multiplication) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Sabya05/DSA-Tracker/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/Sabya05/DSA-Tracker/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/Sabya05/DSA-Tracker/tree/master/0791-custom-sort-string) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Sabya05/DSA-Tracker/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Sabya05/DSA-Tracker/tree/master/0415-add-strings) |
+| [0537-complex-number-multiplication](https://github.com/Sabya05/DSA-Tracker/tree/master/0537-complex-number-multiplication) |
 | [0682-baseball-game](https://github.com/Sabya05/DSA-Tracker/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Sabya05/DSA-Tracker/tree/master/0844-backspace-string-compare) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Sabya05/DSA-Tracker/tree/master/2181-merge-nodes-in-between-zeros) |

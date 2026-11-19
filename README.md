@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Sabya05/DSA-Tracker/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/Sabya05/DSA-Tracker/tree/master/0791-custom-sort-string) |
 | [0819-most-common-word](https://github.com/Sabya05/DSA-Tracker/tree/master/0819-most-common-word) |
+| [0869-reordered-power-of-2](https://github.com/Sabya05/DSA-Tracker/tree/master/0869-reordered-power-of-2) |
 | [0888-fair-candy-swap](https://github.com/Sabya05/DSA-Tracker/tree/master/0888-fair-candy-swap) |
 | [1002-find-common-characters](https://github.com/Sabya05/DSA-Tracker/tree/master/1002-find-common-characters) |
 | [2465-number-of-distinct-averages](https://github.com/Sabya05/DSA-Tracker/tree/master/2465-number-of-distinct-averages) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Sabya05/DSA-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Sabya05/DSA-Tracker/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sabya05/DSA-Tracker/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0869-reordered-power-of-2](https://github.com/Sabya05/DSA-Tracker/tree/master/0869-reordered-power-of-2) |
 | [0908-smallest-range-i](https://github.com/Sabya05/DSA-Tracker/tree/master/0908-smallest-range-i) |
 | [0910-smallest-range-ii](https://github.com/Sabya05/DSA-Tracker/tree/master/0910-smallest-range-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sabya05/DSA-Tracker/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Sabya05/DSA-Tracker/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Sabya05/DSA-Tracker/tree/master/0451-sort-characters-by-frequency) |
 | [0819-most-common-word](https://github.com/Sabya05/DSA-Tracker/tree/master/0819-most-common-word) |
+| [0869-reordered-power-of-2](https://github.com/Sabya05/DSA-Tracker/tree/master/0869-reordered-power-of-2) |
 ## Greedy
 |  |
 | ------- |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Sabya05/DSA-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Sabya05/DSA-Tracker/tree/master/0645-set-mismatch) |
 | [0791-custom-sort-string](https://github.com/Sabya05/DSA-Tracker/tree/master/0791-custom-sort-string) |
+| [0869-reordered-power-of-2](https://github.com/Sabya05/DSA-Tracker/tree/master/0869-reordered-power-of-2) |
 | [0888-fair-candy-swap](https://github.com/Sabya05/DSA-Tracker/tree/master/0888-fair-candy-swap) |
 | [0910-smallest-range-ii](https://github.com/Sabya05/DSA-Tracker/tree/master/0910-smallest-range-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sabya05/DSA-Tracker/tree/master/0922-sort-array-by-parity-ii) |
@@ -438,4 +442,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Sabya05/DSA-Tracker/tree/master/0451-sort-characters-by-frequency) |
+## Enumeration
+|  |
+| ------- |
+| [0869-reordered-power-of-2](https://github.com/Sabya05/DSA-Tracker/tree/master/0869-reordered-power-of-2) |
 <!---LeetCode Topics End-->

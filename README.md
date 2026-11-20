@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Sabya05/DSA-Tracker/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Sabya05/DSA-Tracker/tree/master/0443-string-compression) |
 | [0611-valid-triangle-number](https://github.com/Sabya05/DSA-Tracker/tree/master/0611-valid-triangle-number) |
+| [0696-count-binary-substrings](https://github.com/Sabya05/DSA-Tracker/tree/master/0696-count-binary-substrings) |
 | [0844-backspace-string-compare](https://github.com/Sabya05/DSA-Tracker/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Sabya05/DSA-Tracker/tree/master/0876-middle-of-the-linked-list) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sabya05/DSA-Tracker/tree/master/0922-sort-array-by-parity-ii) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Sabya05/DSA-Tracker/tree/master/0520-detect-capital) |
 | [0537-complex-number-multiplication](https://github.com/Sabya05/DSA-Tracker/tree/master/0537-complex-number-multiplication) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Sabya05/DSA-Tracker/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0696-count-binary-substrings](https://github.com/Sabya05/DSA-Tracker/tree/master/0696-count-binary-substrings) |
 | [0771-jewels-and-stones](https://github.com/Sabya05/DSA-Tracker/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/Sabya05/DSA-Tracker/tree/master/0791-custom-sort-string) |
 | [0819-most-common-word](https://github.com/Sabya05/DSA-Tracker/tree/master/0819-most-common-word) |
